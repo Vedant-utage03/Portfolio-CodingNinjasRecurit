@@ -25,6 +25,4 @@
 
 # Author
 
- - Rushi Patel
- - SRM mail-id : rm8629@srmist.edu.in
- - Registration Number : RA2111027010073
+ - VEDANT UTAGE
